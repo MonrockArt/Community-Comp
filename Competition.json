@@ -62,6 +62,18 @@
       "minted": 0,
       "twitter": "https://twitter.com/monadbuilders",
       "note": "Constructores del futuro on-chain."
+    },
+    {
+      "id": "perezoso",
+      "name": "Perezoso",
+      "ticker": "$PRZS",
+      "color": "#0ea4e9",
+      "chain": "BNB",
+      "logoUrl": "https://assets.coingecko.com/coins/images/36344/standard/Logolisting.png?1711186945",
+      "contract": "0x53Ff62409B219CcAfF01042Bb2743211bB99882e",
+      "minted": 10,
+      "twitter": "https://x.com/perezosotoken",
+      "note": "Perezoso es un meme token"
     }
   ]
 }

@@ -60,16 +60,16 @@
       "note": "Frens del ecosistema Monad."
     },
     {
-      "id": "monad-builders",
-      "name": "Monad Builders",
-      "ticker": "$BUILD",
+      "id": "perezoso",
+      "name": "Perezoso",
+      "ticker": "$PRZS",
       "color": "#0ea5e9",
-      "chain": "base",
-      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=monadbuilders&backgroundColor=0ea5e9",
-      "contract": "0x0000000000000000000000000000000000000000",
-      "tokenSupply": 21000000,
-      "minted": 0,
-      "burnStatus": "pending",
+      "chain": "bsc",
+      "logoUrl": "https://assets.coingecko.com/coins/images/36344/standard/Logolisting.png?1711186945",
+      "contract": "0x53Ff62409B219CcAfF01042Bb2743211bB99882e",
+      "tokenSupply": 420000000000000,
+      "minted": 5000,
+      "burnStatus": "inProgress",
       "burnHistory": [
 {
     "amount": 50000,
@@ -81,11 +81,12 @@
     "amount": 60000,
     "date": "2026-06-16",
     "txHash": "0xabc123def456790...",
-    "note": "Primera tanda de quemas"
+    "note": "Segunda tanda de quemas"
   }
 ],
-      "twitter": "https://twitter.com/monadbuilders",
-      "note": "Constructores del futuro on-chain."
+      "twitter": "https://x.com/perezosotoken",
+      "note": "Perezoso es un meme token."
     }
+    
   ]
 }

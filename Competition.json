@@ -1,0 +1,67 @@
+{
+  "lastUpdated": "2026-05-27T13:30:00Z",
+  "totalSupply": 10000,
+  "mintActive": true,
+  "communities": [
+    {
+      "id": "monad-cult",
+      "name": "Monad Cult",
+      "ticker": "$CULT",
+      "color": "#7c3aed",
+      "chain": "monad",
+      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=monadcult&backgroundColor=7c3aed",
+      "contract": "0x0000000000000000000000000000000000000000",
+      "minted": 0,
+      "twitter": "https://twitter.com/monadcult",
+      "note": "Comunidad cripto pionera en Monad."
+    },
+    {
+      "id": "ape-monad",
+      "name": "Ape Monad",
+      "ticker": "$APEM",
+      "color": "#f97316",
+      "chain": "monad",
+      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=apemonad&backgroundColor=f97316",
+      "contract": "0x0000000000000000000000000000000000000000",
+      "minted": 0,
+      "twitter": "https://twitter.com/apemonad",
+      "note": "Memecoin de la jungla en Monad."
+    },
+    {
+      "id": "molandak",
+      "name": "Molandak",
+      "ticker": "$MOL",
+      "color": "#22c55e",
+      "chain": "monad",
+      "logoUrl": "https://bafybeihpzuv3wz4pa5r3q5wjoc5flggk2bzn526wsgqhqhu2occzvzojre.ipfs.w3s.link/999.png",
+      "contract": "0x36982448e77658b8F58F4665696e3173D1e696C2",
+      "minted": 10,
+      "twitter": "https://twitter.com/molandak",
+      "note": "Mascota oficial de la comunidad Monad."
+    },
+    {
+      "id": "purple-frens",
+      "name": "Purple Frens",
+      "ticker": "$FRENS",
+      "color": "#a855f7",
+      "chain": "ethereum",
+      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=purplefrens&backgroundColor=a855f7",
+      "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "minted": 0,
+      "twitter": "https://twitter.com/purplefrens",
+      "note": "Frens del ecosistema Monad."
+    },
+    {
+      "id": "monad-builders",
+      "name": "Monad Builders",
+      "ticker": "$BUILD",
+      "color": "#0ea5e9",
+      "chain": "base",
+      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=monadbuilders&backgroundColor=0ea5e9",
+      "contract": "0x0000000000000000000000000000000000000000",
+      "minted": 0,
+      "twitter": "https://twitter.com/monadbuilders",
+      "note": "Constructores del futuro on-chain."
+    }
+  ]
+}

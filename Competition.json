@@ -68,10 +68,10 @@
       "name": "Perezoso",
       "ticker": "$PRZS",
       "color": "#0ea4e9",
-      "chain": "BNB Chain",
+      "chain": "bsc",
       "logoUrl": "https://assets.coingecko.com/coins/images/36344/standard/Logolisting.png?1711186945",
       "contract": "0x53Ff62409B219CcAfF01042Bb2743211bB99882e",
-      "minted": 10,
+      "minted": 7000,
       "twitter": "https://x.com/perezosotoken",
       "note": "Perezoso es un meme token"
     }

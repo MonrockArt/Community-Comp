@@ -1,9 +1,5 @@
+
 {
-  "lastUpdated": "2026-05-27T13:30:00Z",
-  "totalSupply": 10000,
-  "mintActive": true,
-  "communities": [
-    {
       "id": "monad-cult",
       "name": "Monad Cult",
       "ticker": "$CULT",
@@ -11,7 +7,10 @@
       "chain": "monad",
       "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=monadcult&backgroundColor=7c3aed",
       "contract": "0x0000000000000000000000000000000000000000",
+      "tokenSupply": 100000000,
       "minted": 0,
+      "burnStatus": "pending",
+      "burnHistory": [],
       "twitter": "https://twitter.com/monadcult",
       "note": "Comunidad cripto pionera en Monad."
     },
@@ -23,7 +22,10 @@
       "chain": "monad",
       "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=apemonad&backgroundColor=f97316",
       "contract": "0x0000000000000000000000000000000000000000",
+      "tokenSupply": 1000000000,
       "minted": 0,
+      "burnStatus": "pending",
+      "burnHistory": [],
       "twitter": "https://twitter.com/apemonad",
       "note": "Memecoin de la jungla en Monad."
     },
@@ -35,7 +37,10 @@
       "chain": "monad",
       "logoUrl": "https://bafybeihpzuv3wz4pa5r3q5wjoc5flggk2bzn526wsgqhqhu2occzvzojre.ipfs.w3s.link/999.png",
       "contract": "0x36982448e77658b8F58F4665696e3173D1e696C2",
-      "minted": 21,
+      "tokenSupply": 1000000000,
+      "minted": 10,
+      "burnStatus": "pending",
+      "burnHistory": [],
       "twitter": "https://twitter.com/molandak",
       "note": "Mascota oficial de la comunidad Monad."
     },
@@ -47,7 +52,10 @@
       "chain": "ethereum",
       "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=purplefrens&backgroundColor=a855f7",
       "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "tokenSupply": 500000000,
       "minted": 0,
+      "burnStatus": "pending",
+      "burnHistory": [],
       "twitter": "https://twitter.com/purplefrens",
       "note": "Frens del ecosistema Monad."
     },
@@ -59,21 +67,25 @@
       "chain": "base",
       "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=monadbuilders&backgroundColor=0ea5e9",
       "contract": "0x0000000000000000000000000000000000000000",
+      "tokenSupply": 21000000,
       "minted": 0,
+      "burnStatus": "pending",
+      "burnHistory": [
+{
+    "amount": 50000,
+    "date": "2026-06-15",
+    "txHash": "0xabc123def456789...",
+    "note": "Primera tanda de quemas"
+  },
+{
+    "amount": 60000,
+    "date": "2026-06-16",
+    "txHash": "0xabc123def456790...",
+    "note": "Primera tanda de quemas"
+  }
+],
       "twitter": "https://twitter.com/monadbuilders",
       "note": "Constructores del futuro on-chain."
-    },
-    {
-      "id": "perezoso",
-      "name": "Perezoso",
-      "ticker": "$PRZS",
-      "color": "#0ea4e9",
-      "chain": "bsc",
-      "logoUrl": "https://assets.coingecko.com/coins/images/36344/standard/Logolisting.png?1711186945",
-      "contract": "0x53Ff62409B219CcAfF01042Bb2743211bB99882e",
-      "minted": 7000,
-      "twitter": "https://x.com/perezosotoken",
-      "note": "Perezoso es un meme token"
     }
   ]
 }

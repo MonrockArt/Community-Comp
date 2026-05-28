@@ -43,8 +43,13 @@
       "contract": "0x36982448e77658b8F58F4665696e3173D1e696C2",
       "tokenSupply": 1000000000,
       "minted": 10,
-      "burnStatus": "pending",
-      "burnHistory": [],
+      "burnStatus": "inProgress",
+      "burnHistory": [{
+    "amount": 50000,
+    "date": "2026-06-15",
+    "txHash": "0xabc123def456789...",
+    "note": "Primera tanda de quemas"
+      }],
       "twitter": "https://twitter.com/molandak",
       "note": "Mascota oficial de la comunidad Monad."
     },

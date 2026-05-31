@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T10:00:00Z",
+  "lastUpdated": "2026-05-31T10:00:00Z",
   "totalSupply": 10000,
   "mintActive": true,
   "communities": [
@@ -12,26 +12,17 @@
       "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=monadcult&backgroundColor=7c3aed",
       "contract": "0x0000000000000000000000000000000000000000",
       "tokenSupply": 100000000,
-      "minted": 0,
-      "burnStatus": "pending",
-      "burnHistory": [],
+      "minted": 20,
+      "action": "Quema",
+      "status": "inProgress",
+      "actions": [{
+    "amount": 50000,
+    "date": "2026-06-15",
+    "txHash": "0xabc123def456789...",
+    "note": "Primera tanda de quemas"
+  }],
       "twitter": "https://twitter.com/monadcult",
       "note": "Comunidad cripto pionera en Monad."
-    },
-    {
-      "id": "ape-monad",
-      "name": "Ape Monad",
-      "ticker": "$APEM",
-      "color": "#f97316",
-      "chain": "monad",
-      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=apemonad&backgroundColor=f97316",
-      "contract": "0x0000000000000000000000000000000000000000",
-      "tokenSupply": 1000000000,
-      "minted": 0,
-      "burnStatus": "pending",
-      "burnHistory": [],
-      "twitter": "https://twitter.com/apemonad",
-      "note": "Memecoin de la jungla en Monad."
     },
     {
       "id": "molandak",
@@ -43,45 +34,16 @@
       "contract": "0x36982448e77658b8F58F4665696e3173D1e696C2",
       "tokenSupply": 1000000000,
       "minted": 10,
-      "burnStatus": "inProgress",
-      "burnHistory": [{
+      "action": "Compra",
+      "status": "inProgress",
+      "actions": [{
     "amount": 50000,
     "date": "2026-06-15",
     "txHash": "0xabc123def456789...",
-    "note": "Primera tanda de quemas"
-      }],
+    "note": "Primera tanda de Compra"
+  }],
       "twitter": "https://twitter.com/molandak",
       "note": "Mascota oficial de la comunidad Monad."
-    },
-    {
-      "id": "purple-frens",
-      "name": "Purple Frens",
-      "ticker": "$FRENS",
-      "color": "#a855f7",
-      "chain": "ethereum",
-      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=purplefrens&backgroundColor=a855f7",
-      "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-      "tokenSupply": 500000000,
-      "minted": 0,
-      "burnStatus": "pending",
-      "burnHistory": [],
-      "twitter": "https://twitter.com/purplefrens",
-      "note": "Frens del ecosistema Monad."
-    },
-    {
-      "id": "monad-builders",
-      "name": "Monad Builders",
-      "ticker": "$BUILD",
-      "color": "#0ea5e9",
-      "chain": "base",
-      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=monadbuilders&backgroundColor=0ea5e9",
-      "contract": "0x0000000000000000000000000000000000000000",
-      "tokenSupply": 21000000,
-      "minted": 0,
-      "burnStatus": "pending",
-      "burnHistory": [],
-      "twitter": "https://twitter.com/monadbuilders",
-      "note": "Constructores del futuro on-chain."
     }
   ]
 }

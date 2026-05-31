@@ -16,7 +16,7 @@
       "action": "Quema",
       "status": "inProgress",
       "actions": [{
-    "amount": 50000,
+    "amount": 500,
     "date": "2026-06-15",
     "txHash": "0xabc123def456789...",
     "note": "Primera tanda de quemas"
@@ -37,7 +37,7 @@
       "action": "Compra",
       "status": "inProgress",
       "actions": [{
-    "amount": 50000,
+    "amount": 450,
     "date": "2026-06-15",
     "txHash": "0xabc123def456789...",
     "note": "Primera tanda de Compra"

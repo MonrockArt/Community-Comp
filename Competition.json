@@ -1,49 +1,39 @@
 {
-  "lastUpdated": "2026-05-31T10:00:00Z",
+  "lastUpdated": "2026-06-03T10:44:00Z",
   "totalSupply": 10000,
   "mintActive": true,
   "communities": [
     {
-      "id": "monad-cult",
-      "name": "Monad Cult",
-      "ticker": "$CULT",
+      "id": "Oikos-Token",
+      "name": "Oikos Token",
+      "ticker": "$OKS",
       "color": "#7c3aed",
-      "chain": "monad",
-      "logoUrl": "https://api.dicebear.com/9.x/shapes/svg?seed=monadcult&backgroundColor=7c3aed",
-      "contract": "0x0000000000000000000000000000000000000000",
-      "tokenSupply": 100000000,
-      "minted": 20,
-      "action": "Quema",
-      "status": "inProgress",
-      "actions": [{
-    "amount": 500,
-    "date": "2026-06-15",
-    "txHash": "0xabc123def456789...",
-    "note": "Primera tanda de quemas"
-  }],
-      "twitter": "https://twitter.com/monadcult",
-      "note": "Comunidad cripto pionera en Monad."
-    },
-    {
-      "id": "molandak",
-      "name": "Molandak",
-      "ticker": "$MOL",
-      "color": "#22c55e",
-      "chain": "monad",
-      "logoUrl": "https://bafybeihpzuv3wz4pa5r3q5wjoc5flggk2bzn526wsgqhqhu2occzvzojre.ipfs.w3s.link/999.png",
-      "contract": "0x36982448e77658b8F58F4665696e3173D1e696C2",
-      "tokenSupply": 1000000000,
-      "minted": 10,
+      "chain": "BSC",
+      "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/37559.png",
+      "contract": "0x614da16Af43A8Ad0b9F419Ab78d14D163DEa6488",
+      "tokenSupply": 4452462,
+      "minted": 3,
       "action": "Compra",
-      "status": "inProgress",
-      "actions": [{
-    "amount": 450,
-    "date": "2026-06-15",
-    "txHash": "0xabc123def456789...",
-    "note": "Primera tanda de Compra"
-  }],
-      "twitter": "https://twitter.com/molandak",
-      "note": "Mascota oficial de la comunidad Monad."
+      "status": "Pending",
+      "actions": [],
+      "twitter": "https://x.com/oikos_cash",
+      "note": "Next-gen DeFi Launchpad on @BNBChain"
+       },
+       {
+      "id": "Cash-Bunny",
+      "name": "CashBunny",
+      "ticker": "$BUNNY",
+      "color": "#22c55e",
+      "chain": "BSC",
+      "logoUrl": "https://bscscan.com/token/images/bunnybsc_32.png",
+      "contract": "0x2F7c6FCE82a4845726C3744df21Dc87788112B66",
+      "tokenSupply": 1618480902,
+      "minted": 2,
+      "action": "Compra",
+      "status": "Pending",
+      "actions": [],
+      "twitter": "https://x.com/CashBunnydotfun",
+      "note": "CashBunny es un token que integra DeFi y memecoin"
     }
   ]
 }

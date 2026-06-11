@@ -34,6 +34,22 @@
       "actions": [],
       "twitter": "https://x.com/CashBunnydotfun",
       "note": "CashBunny es un token que integra DeFi y memecoin"
+    },
+       {
+      "id": "Perezoso-Token",
+      "name": "Perezoso",
+      "ticker": "$PRZS",
+      "color": "#2F7D32",
+      "chain": "BSC",
+      "logoUrl": "https://assets.coingecko.com/coins/images/36344/standard/Logolisting.png?1711186945",
+      "contract": "0x53Ff62409B219CcAfF01042Bb2743211bB99882e",
+      "tokenSupply": 420000000000000,
+      "minted": 0,
+      "action": "Quema",
+      "status": "Pending",
+      "actions": [],
+      "twitter": "https://x.com/perezosotoken",
+      "note": "Perezoso es un token MEME que recompensa a los Cryptotraders leales en nuestro exchange."
     }
   ]
 }

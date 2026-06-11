@@ -14,12 +14,12 @@ Para participar en la competencia, abre un **Issue** usando la plantilla “Soli
    - Blockchain
    - Contrato
    - Logo
-   - Twitter/X (opcional)
+   - Twitter/Web (opcional)
    - Descripción breve (opcional)
 5. Haz clic en **Submit new issue**.
 
 ### Qué sucede después
 
 - Un administrador revisará tu solicitud.
-- Si todo está correcto, se agregará tu comunidad al archivo `communities.json`.
+- Si todo está correcto, se agregará tu comunidad al archivo `Competition.json`.
 - Te notificaremos en el mismo Issue cuando tu solicitud sea aprobada.

@@ -23,7 +23,7 @@
       "id": "Cash-Bunny",
       "name": "CashBunny",
       "ticker": "$BUNNY",
-      "color": "#22c55e",
+      "color": "#E56F6F",
       "chain": "BSC",
       "logoUrl": "https://bscscan.com/token/images/bunnybsc_32.png",
       "contract": "0x2F7c6FCE82a4845726C3744df21Dc87788112B66",
@@ -35,7 +35,7 @@
       "twitter": "https://x.com/CashBunnydotfun",
       "note": "CashBunny es un token que integra DeFi y memecoin"
     },
-       {
+    {
       "id": "Perezoso-Token",
       "name": "Perezoso",
       "ticker": "$PRZS",
@@ -50,6 +50,22 @@
       "actions": [],
       "twitter": "https://x.com/perezosotoken",
       "note": "Perezoso es un token MEME que recompensa a los Cryptotraders leales en nuestro exchange."
+    },
+    {
+      "id": "Monstro-Defi",
+      "name": "Monstro DeFi",
+      "ticker": "$MONSTRO",
+      "color": "#1E40AF",
+      "chain": "Base",
+      "logoUrl": "https://assets.coingecko.com/coins/images/71597/standard/_monstro-logo-200x200.png?1768474481",
+      "contract": "0x1d3bE1CC80cA89DDbabe5b5C254AF63200e708f7",
+      "tokenSupply": 395789535,
+      "minted": 0,
+      "action": "Quema",
+      "status": "Pending",
+      "actions": [],
+      "twitter": "https://x.com/monstrodefi",
+      "note": "Un token de lanzamiento justo que impulsa la gobernanza, la utilidad del staking y la alineación del ecosistema a largo plazo."
     }
   ]
 }

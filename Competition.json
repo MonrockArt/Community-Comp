@@ -23,7 +23,7 @@
       "id": "Cash-Bunny",
       "name": "CashBunny",
       "ticker": "$BUNNY",
-      "color": "#E56F6F",
+      "color": "#EEEAA8",
       "chain": "BSC",
       "logoUrl": "https://bscscan.com/token/images/bunnybsc_32.png",
       "contract": "0x2F7c6FCE82a4845726C3744df21Dc87788112B66",

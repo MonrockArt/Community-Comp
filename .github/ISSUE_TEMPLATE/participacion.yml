@@ -1,1 +1,67 @@
+name: Solicitud de participación
+description: Solicita agregar tu token a la competencia.
+title: "Solicitud de participación: "
+labels:
+  - participant
 
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Nombre de la comunidad
+      placeholder: Oikos Token
+    validations:
+      required: true
+
+  - type: input
+    id: ticker
+    attributes:
+      label: Ticker
+      placeholder: $OKS
+    validations:
+      required: true
+
+  - type: dropdown
+    id: action
+    attributes:
+      label: Acción deseada
+      description: ¿Qué deseas que Mon Rock haga con los fondos acumulados que logre la comunidad?
+      options:
+        - Compra
+        - Quema
+    validations:
+      required: true
+
+  - type: input
+    id: chain
+    attributes:
+      label: Blockchain
+      placeholder: BSC
+    validations:
+      required: true
+
+  - type: input
+    id: contract
+    attributes:
+      label: Dirección del contrato
+      placeholder: 0x...
+    validations:
+      required: true
+
+  - type: input
+    id: logo
+    attributes:
+      label: URL del logo
+      placeholder: https://...
+
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter/X
+      placeholder: https://x.com/...
+
+  - type: textarea
+    id: note
+    attributes:
+      label: Descripción breve
+      placeholder: Describe tu proyecto en una o dos líneas.

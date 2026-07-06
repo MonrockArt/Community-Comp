@@ -70,7 +70,7 @@
       "id": "Shiba-Inu",
       "name": "SHIBA INU",
       "ticker": "$SHIB",
-      "color": "#ed9d13",
+      "color": "#E76F00",
       "chain": "Ethereum",
       "logoUrl": "https://etherscan.io/token/images/shibainu_ofc_32.svg",
       "contract": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",

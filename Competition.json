@@ -11,7 +11,7 @@
       "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/37559.png",
       "contract": "0x614da16Af43A8Ad0b9F419Ab78d14D163DEa6488",
       "tokenSupply": 4452462,
-      "minted": 3,
+      "minted": 9,
       "action": "Compra",
       "status": "Pending",
       "actions": [],
@@ -43,7 +43,7 @@
       "logoUrl": "https://assets.coingecko.com/coins/images/36344/standard/Logolisting.png?1711186945",
       "contract": "0x53Ff62409B219CcAfF01042Bb2743211bB99882e",
       "tokenSupply": 420000000000000,
-      "minted": 0,
+      "minted": 2,
       "action": "Quema",
       "status": "Pending",
       "actions": [],
@@ -59,12 +59,28 @@
       "logoUrl": "https://assets.coingecko.com/coins/images/71597/standard/_monstro-logo-200x200.png?1768474481",
       "contract": "0x1d3bE1CC80cA89DDbabe5b5C254AF63200e708f7",
       "tokenSupply": 395789535,
-      "minted": 0,
+      "minted": 1,
       "action": "Quema",
       "status": "Pending",
       "actions": [],
       "twitter": "https://x.com/monstrodefi",
       "note": "Un token de lanzamiento justo que impulsa la gobernanza, la utilidad del staking y la alineación del ecosistema a largo plazo."
+    },
+    {
+      "id": "Shiba-Inu",
+      "name": "SHIBA INU",
+      "ticker": "$SHIB",
+      "color": "#ed9d13",
+      "chain": "Ethereum",
+      "logoUrl": "https://etherscan.io/token/images/shibainu_ofc_32.svg",
+      "contract": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "tokenSupply": 999982329478393,
+      "minted": 0,
+      "action": "Quema",
+      "status": "Pending",
+      "actions": [],
+      "twitter": "https://x.com/Shibtoken",
+      "note": "SHIBA INU is a 100% decentralized community experiment with it claims that 1/2 the tokens have been sent to Vitalik and the other half were locked to a Uniswap pool and the keys burned."
     }
   ]
 }
